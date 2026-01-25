@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TKT-001",
+    "title": "VPN will not connect (Error 809)",
+    "status": "Open",
+    "priority": "P2",
+    "user": "J. Smith",
+    "category": "Network/VPN",
+    "created_at": "2026-01-25 09:10:00",
+    "updated_at": "",
+    "symptoms": "User gets VPN Error 809. Internet works but corporate VPN fails.",
+    "work_notes": []
+  }
+]
